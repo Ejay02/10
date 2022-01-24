@@ -12,3 +12,5 @@ Simple quiz app
 -Recipe App
 meal recipe
 The meal db api- https://www.themealdb.com/api.php
+
+- Notes App
