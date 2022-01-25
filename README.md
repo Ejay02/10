@@ -31,4 +31,6 @@ Image Source
     save to Local Storage
 
 
-- Drawing App
+- GitHub Profiles App
+    Search for user
+    Fetch user info
