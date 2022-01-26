@@ -40,3 +40,12 @@ Image Source
     canvas
     size
     color
+    download
+    tooltip
+
+-Password Generator
+    numbers
+    letters
+    symbols
+    copy to clipboard
+    maybe save/download as note?? 🤔

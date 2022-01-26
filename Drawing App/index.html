@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Drawing App</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
-</head>
-<body>
+  </head>
+  <body>
     <canvas id="canvas" width="500" height="500"></canvas>
     <div class="toolbox">
-        <button id="decrease"> - </button>
-        <span id="size">30</span>
-        <button id="increase"> + </button>
-        <input type="color" id="color"/>
-        <button id="clear">🧹</button>
-        <a download="example.jpg" href="" onclick="downloadCanvas(this);">⬇️</a>
+      <button title="Reduce weight" id="decrease">-</button>
+      <span title="current weight size"id="size">30</span>
+      <button title="Add weight" id="increase">+</button>
+      <input title="Change color" type="color" id="color" />
+      <button title="Clear me" id="clear">🧹</button>
+      <a title="download me" download="example.jpg" href="" onclick="downloadCanvas(this);">⬇️</a>
     </div>
-</body>
+  </body>
 </html>
