@@ -49,3 +49,9 @@ Image Source
     symbols
     copy to clipboard
     maybe save/download as note?? 🤔
+
+-Weather App
+    -get weather by location
+    -search
+
+    
